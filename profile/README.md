@@ -7,7 +7,7 @@
 
 # BitByte Innovations
 
-**Technology, design, and digital growth—one connected team.**
+**Technology, design, and digital growth, one connected team.**
 
 Based in Chittagong, Bangladesh, we help businesses build useful software and reach the people who need it. Our engineers, designers, and marketing specialists work together from the first conversation through launch and ongoing improvement.
 
